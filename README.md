@@ -45,7 +45,11 @@ The original target values were converted into a binary target, where values gre
 | Recall | 92.9% | 96.4% |
 | F1-score | 86.7% | 91.5% |
 
+### Model Performance Comparison
+
 Random Forest performed better across the reported metrics on this particular test split.
+
+![Model Performance Comparison](model_performance_comparison.png)
 
 ## Project Structure
 
